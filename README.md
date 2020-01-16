@@ -13,3 +13,5 @@ http://brackets.io/
 https://phasereditor2d.com/
 
 https://phaser.io/news/category/tutorial
+
+https://gamedevacademy.org/make-a-mario-style-platformer-with-the-phaser-editor/
