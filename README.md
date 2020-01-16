@@ -11,3 +11,5 @@ https://www.lesscake.com/phaser-game-tutorial
 http://brackets.io/
 
 https://phasereditor2d.com/
+
+https://phaser.io/news/category/tutorial
